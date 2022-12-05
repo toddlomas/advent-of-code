@@ -2,8 +2,6 @@
 # calories = [sum(map(int, elf.split())) for elf in elves]
 # print(max(calories), sum(sorted(calories)[-3:]))
 
-# Correct Solution
-
 # Data sets to use
 training_data = 'day1_training.txt'
 test_data = 'day1_test.txt'
